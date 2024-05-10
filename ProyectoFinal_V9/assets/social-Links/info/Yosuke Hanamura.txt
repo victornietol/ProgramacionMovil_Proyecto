@@ -1,0 +1,87 @@
+Disponibilidad en Horario diurno
+	• lunes, jueves, viernes, sábado y domingo
+Localización:
+	• Días escolares: Yasogami High – Edificio de aulas, segundo piso
+	• Días libres: en los ascensores de Junes – Entrada Oeste
+¿Disponible bajo la lluvia?
+	• No
+
+LEA NUESTRA GUÍA COMPLETA DE SOCIAL LINK PARA YOSUKE AQUÍ.
+
+Rango 1:
+	• A medida que comienza la historia de Persona 4 Golden, conocerás a Yosuke y lo conocerás. El enlace social comienza el 16/4.
+
+Rango 1 > 2:
+Opciones que impactan su relación en este rango:
+	• Lo lamento. Ya me conoces, soy famoso por aquí.
+		o "Debe ser difícil". +3
+Yosuke aprende la habilidad Trafuri al alcanzar este rango.
+
+Rango 2 > 3:
+Opciones que impactan su relación en este rango:
+	• Espera un minuto… ¿Estoy empezando a sonar como Teddie?
+		o "Hmm, te ves más peludo". +3
+		o "Teddie es lindo". +2
+	• Parece que alguien consiguió mi dirección. Recibo mucho spam.
+		o Cualquier respuesta
+
+Rango 3 > 4:
+Opciones que impactan su relación en este rango:
+	• Uf, estoy agotado... No soy el departamento de quejas...
+		o "Eres increible." +3
+		o "No te esfuerces". +2
+		o "Eso debe ser difícil". +1
+	• tengo que hacer lo que pueda...
+		o "¡Ese es el espíritu!" +3
+Yosuke aprende la habilidad Dekaja al completar este ascenso de rango.
+
+Rango 4 > 5:
+Opciones que impactan su relación en este rango:
+	• Entonces…? ¿Guardas la mercancía debajo de tu futón?
+		o "Por supuesto." +3
+		o "¿Eh?" +3
+	• Entonces, ¿alguna vez invitaste a una chica aquí?
+		o "Lo haré pronto." +3
+
+Rango 5 > 6:
+Opciones que impactan su relación en este rango:
+	• Pero bueno, ¡me alegro que estuvieras ahí! Gracias.
+		o "Ningún problema." +3
+		o "¡Dime la próxima vez!" +3
+		o "Fue divertido." +3
+	• Así que… no hay necesidad de preocuparse por los forasteros.
+		o "Tienes razón." +3
+		o "Hombre, eres maduro". +3
+Yosuke aprende Auto-Sukukaja al subir de rango.
+
+Rango 6 > 7:
+Opciones que impactan su relación en este rango:
+	• Comenzaron a hablar mal de Saki-senpai...
+		o Cualquier respuesta
+	• Acabo de soltar un montón de tonterías, ¿eh?
+		o Cualquier respuesta
+Después de terminar el rango 6, puedes hablar con una dama en el lobby de Junes para conseguir un nuevo disfraz para Yosuke y, si está desbloqueado, para Teddie .
+
+Rango 7 > 8:
+Opciones que impactan su relación en este rango:
+	• Pero entonces...
+		o Cualquier respuesta
+	• Lo siento... Saki-senpai. Lo lamento.
+		o Cualquier respuesta
+	• Creo que estoy todo llorado...
+		o Cualquier respuesta
+Yosuke aprende Diarama después de este ascenso de rango.
+
+Rango 8 > 9:
+Opciones que impactan su relación en este rango:
+	• Yosuke está sonriendo tristemente...
+		o "Animar." +2
+	• Simplemente nacer, vivir tu vida… Antes de que te des cuenta, ya eres especial para alguien.
+		o "Tienes razón." +3
+		o "Eso no es cierto." +3
+		o "No lo entiendo". +3
+
+Rango 9 > 10:
+Opciones que impactan su relación en este rango:
+	• No hay opciones impactantes: elige lo que te haga feliz. Pero, bueno, ¿por qué no darías una pelea fraternal?
+Yosuke aprende a Evade Electric después de este ascenso de rango. Recibirás el artículo Buddy's Bandage, que te permitirá fusionar a Susano-o y Mada.

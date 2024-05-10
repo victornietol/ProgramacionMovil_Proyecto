@@ -1,0 +1,101 @@
+Disponibilidad
+	• Tardes de viernes, sábado y domingo
+Localización
+	• Schooldays: Yasogami High – Edificio de aulas, primer piso
+	• Días libres: fuera de Marukyu Tofu en el distrito comercial sur
+¿Disponible bajo la lluvia?
+	• No
+
+LEA NUESTRA GUÍA COMPLETA DE SOCIAL LINK PARA RISE AQUÍ.
+
+Rango 1:
+	• El vínculo social con Rise comenzará automáticamente el 23 de julio, que será algún tiempo después de que te encuentres por primera vez con la superestrella en ciernes como parte de la historia. Eso te dará el puesto 1 gratis.
+
+Rango 1 > 2:
+Opciones que impactan su relación en este rango:
+	• Pero es un poco embarazoso presentarse solo, ¿sabes?
+		o "Solo pide comida para llevar". +3
+		o “¿Entonces no comes fuera?” +3
+		o "¿Por qué?" +2
+
+Rango 2 > 3:
+Opciones que impactan su relación en este rango:
+	• Tomará tiempo regresar, ¡así que caminemos rápido!
+		o "¿Vienes aquí a menudo?" +3
+		o “¿No puedes comprar en Inaba…?” +3
+		o "¿Qué estás buscando?" +3
+Rise aprende la habilidad Treasure Radar para ayudar al grupo una vez que alcanzas el rango 3 en su s-link.
+
+Rango 3 > 4:
+Opciones que impactan su relación en este rango:
+	• Rise está preocupada...
+		o “Agarra su mano y corre”. +3
+		o "Llame a la policía." +3
+	• Rise parece desesperada...
+		o "Ve con ella". +3
+	• Lo siento... mentir acerca de casarme contigo y todo eso...
+		o "No me importa". +3
+		o "Eso... ¿fue una mentira?" +3
+
+Rango 4 > 5:
+Opciones que impactan su relación en este rango:
+	• Senpai, ¿alguna vez pensaste que te estabas esforzando demasiado o que simplemente estabas actuando...? 
+		o "Todo el tiempo." +3
+		o "A veces." +3
+		o "No precisamente." +2
+	• Estás conmigo ahora mismo porque soy Risette, ¿sí?
+		o "No." +3
+		o "No sé." +3
+
+Rango 5 > 6:
+Opciones que impactan su relación en este rango:
+	• Llegó una carta de un fan, ya ves...
+		o Cualquier respuesta
+	• Pensar que confié en él… ¡me siento traicionada!
+		o Cualquier respuesta
+	• Renuncié a ser Risette. No puedo cumplir con sus expectativas...
+		o "Ella lo entenderá". +3 (se requiere nivel 5 de comprensión)
+		o "¿Tienes dudas?" +3
+	• ¿No suena divertido? ¿Qué tal? Jajaja…
+		o "Si hablas en serio..." +3
+		o "Suena genial." +3
+Rise aprenderá la habilidad Enemy Radar que te ayudará en las mazmorras una vez que tu enlace social alcance el rango 6.
+
+Rango 6 > 7:
+Opciones que impactan su relación en este rango:
+	• Era linda, así que pensé que se vendería.
+		o Cualquier respuesta
+	• Te gusta tener un estudiante de primer año tan lindo, ¿verdad? Después de todo, soy un ex ídolo.
+		o "Esa parte no importa". +3
+		o "Estoy feliz." +2
+	• Rise parece indefensa...
+		o "Reírse de ello." +3 (se requiere coraje de nivel 5)
+		o "Acércate a ella". +3
+		o "Anímala". +3
+
+Rango 7 > 8:
+Este es el rango donde puedes elegir para entablar una relación romántica con Rise Kujikawa . Opciones que impactan su relación en este rango:
+	• Senpai… yo… no sé por qué estoy llorando…
+		o Cualquier respuesta
+	• ... Sientes que este es un momento importante. No hay marcha atrás.
+		o "Sostenla." [Camino de relación romántica]
+		o "Quédate ahí." [Camino de la amistad]
+
+Rango 8 > 9:
+Opciones que impactan su relación en este rango:
+	• Y sin embargo… me sentí tan enojado por eso… ¿por qué crees que es así?
+		o "Risette también es Rise". +3
+		o “Te arrepientes de haberte ido”. +3
+		o "Eres egoísta". +3
+
+Rango 9 > 10:
+Este rango se divide en dos ramas distintas: una si Rise es tu novia según tu elección en los rangos 7>8, y otra si solo sois amigos.
+Opciones que impactan su relación en este rango:
+
+Romance: Si Rise es tu novia
+	• ¡Se lo preguntaré al hombre mismo! Entonces, ¿dónde los escondes?
+		o Cualquier respuesta
+
+Amistad: si no estás saliendo
+	• No hay opciones en esta sucursal.
+Cuando tu enlace social Rise (Lovers) alcance el rango 10, recibirás un elemento de foto firmada, que también desbloquea la capacidad de fusionar a Kanzeon e Ishtar, una poderosa Persona. Rise también aprende la habilidad Escaneo de debilidades, que puede ser un salvavidas en las mazmorras.

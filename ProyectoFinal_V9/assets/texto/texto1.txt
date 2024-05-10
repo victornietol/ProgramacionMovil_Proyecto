@@ -1,0 +1,3 @@
+Texto prueba para la vista en cuestion.
+
+para instalar una dependencia debe de agregarse en pubspec.yami (se encuentra en los archivos del proyecto). Despues se agrega el nombre y la version en el apartado de "dependencies" (pero en flutter). Posteriormente, se le da click a los botones de Pub get, Pub upgrade, Pub outdated (en ese orden, se encuentran en la parte superior derecha de la pantalla).

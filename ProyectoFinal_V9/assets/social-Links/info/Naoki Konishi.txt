@@ -1,0 +1,90 @@
+ Disponibilidad
+• Durante el día o la noche los lunes, martes, miércoles y jueves
+Localización
+• Días escolares: Yasogami High – Edificio de práctica, primer piso
+• Días libres: afuera de Konishi Liquors en el distrito comercial del norte
+¿Disponible bajo la lluvia?
+• No
+
+LEA NUESTRA GUÍA COMPLETA DE SOCIAL LINK PARA NAOKI AQUÍ.
+
+Rango 1:
+• A partir del 8 de junio, podrás encontrar a Naoki en el primer piso de tu escuela. Habla con él y luego vuelve con él todos los días. Después de volver a hablar con él varias veces seguidas, se inicia este vínculo social. 
+
+Rango 1 > 2:
+Opciones que impactan su relación en este rango:
+• Normalmente como mucho aquí porque está muy cerca de nuestra casa, pero por alguna razón no he comido aquí recientemente.
+	o “¿Estás cansado de la comida?” +3
+	o "¿Demasiado ocupado?" +3
+	o “¿Por el asesinato?” +2
+• Quiero decir… ¿qué es exactamente una “vida admirable”?
+	o "No sé." +3
+	o “Hacer felices a tus padres”. +3
+	o “Contribuyendo a la sociedad”. +2
+
+Rango 2 > 3:
+Opciones que impactan su relación en este rango:
+• Naoki se ríe como si estuviera pasando un buen rato.
+	o “Pídale que cuente otra historia”. +3
+	o "Cuenta un chiste americano". +3
+	o “Cuenta tu propio chiste de fracaso”. +3
+• Naoki se muerde el labio...
+	o "Iré a regañarlos". +3
+	o “¿No estás diciendo nada?” +3
+
+Rango 3 > 4:
+Opciones que impactan su relación en este rango:
+• Naoki parece angustiado...
+	o “Habla con la dama”, +3 (se requiere coraje de nivel 4)
+	o "Halaga a la dama". +3 (se requiere expresión de nivel 4)
+• Lo siento... es un poco incómodo estar cerca de mí, ¿eh?
+	o "No es tu culpa." +3
+
+Rango 4 > 5:
+Opciones que impactan su relación en este rango:
+• ......
+	o "Es una buena idea." +3
+• ...Tengo que hacerlo.
+	o Cualquier elección.
+
+Rango 5 > 6:
+Opciones que impactan su relación en este rango:
+• De repente todos empezaron a sospechar de mí. No me esperaba eso en absoluto.
+	o Cualquier respuesta
+• ¿Soy realmente tan lamentable...?
+	o "No eres el único." +3
+	o "Se a lo que se refieren." +3
+
+Rango 6 > 7:
+Opciones que impactan su relación en este rango:
+• Quería disculparme por eso.
+	o "No me importa". +3
+	o "¿Ultima vez?" +3
+
+Rango 7 > 8:
+Opciones que impactan su relación en este rango:
+• Irónico, ¿no?
+	o Cualquiera de las dos opciones.
+• Yosuke-san seguro que es entrometido. Oh espera, tú también...
+	o "No podemos simplemente ignorarte". +3
+	o “No me mezcles con él. +3
+
+Rango 8 > 9:
+Opciones que impactan su relación en este rango:
+• Como no podía llorar como los actores de la televisión, pensé que tal vez en realidad no me agradaba mi hermana...
+	o "Las personas son diferentes." +3
+	o "Eso no es cierto." +3
+	o "Eres simplemente un inepto". +3
+• Ella debe haber querido vivir más, ¿eh?
+	o Cualquier elección
+• Naoki se muerde el labio...
+	o "Déjalo salir todo, Naoki". +3 (Se necesita comprensión de nivel 5)
+	o "Ella puede oírte". +3
+
+Rango 9 > 10:
+Opciones que impactan su relación en este rango:
+• Todo es gracias a ti.
+	o “No hice nada”. +3
+	o "Así es. Estar agradecidos." +2
+
+Si maximizas tu s-link con Naoki Konishi, obtendrás el recibo de junio. Esto te permitirá fusionar la personalidad Attis. 

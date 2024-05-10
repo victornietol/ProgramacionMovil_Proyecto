@@ -1,0 +1,106 @@
+Disponibilidad
+• Todos los días durante el día (excepto los domingos)
+Localización
+• Días escolares: Yasogami High – Azotea
+• Días libres: fuera de Daidara Metalworks en South Shopping District
+¿Disponible bajo la lluvia?
+• No
+
+LEA NUESTRA GUÍA COMPLETA DE SOCIAL LINK PARA CHIE AQUÍ.
+
+Rango 1:
+• Iniciarás el vínculo social con Chie Satonaka automáticamente el 18 de abril, cuando la historia de Persona 4 Golden comience.
+
+Rango 1 > 2:
+Opciones que impactan su relación en este rango:
+• Aún así, ahora es el momento de entrenar, ¿verdad?
+	o "Bien." +3
+• ...¿No?
+	o "Estoy bien con eso". +3
+	o "Supongo que sí..." +2
+Chie aprende la habilidad Rebelión al alcanzar este rango.
+
+Rango 2 > 3:
+Opciones que impactan su relación en este rango:
+• ¡Pero yo lo pierdo totalmente! Un poco gracioso, ¿eh?
+	o "Es lindo." +3 (Requiere Coraje Nivel 3)
+	o "Es muy femenino". +3
+	o "Es hilarante." +2
+
+Rango 3 > 4:
+Opciones que impactan su relación en este rango:
+• B-bueno...
+	o "Deja de alardear de ella". +3 (Requiere Coraje Nivel 3)
+	o "No es asunto tuyo." +2
+• ¿Qué deberías hacer?
+	o "Toma la mano de Chie". +3 (Requiere Coraje Nivel 3)
+	o "Contar un chiste." +3
+	o “Takeshi que habla mal”. +2
+Chie aprende la habilidad Ice Boost después de subir de rango en este vínculo social.
+
+Rango 4 > 5:
+Opciones que impactan su relación en este rango:
+• Mmm… La carne y el arroz simplemente corren por mis venas…
+	o "Pareces muy feliz." +3
+	o "Se ve delicioso." +3
+	o "Devorándolo, ¿eh?" +3
+• Espero que no se esté esforzando. Te preocupa, ¿eh?
+	o “Yo cuidaré de ella”. +3
+	o "Me preocupo más por ti". +3
+	o "Yukiko no es tan débil." +3
+
+Rango 5 > 6:
+Opciones que impactan su relación en este rango:
+• ¡Qué cobardes, unirse así a los débiles!
+	o "Exactamente." +3
+• ¡Los agarraremos y haremos que se disculpen! ¿Bien?
+	o "Por supuesto." +3
+Chie aprende la habilidad Revolución después de subir de nivel en S-Link.
+
+Rango 6 > 7:
+Opciones que impactan su relación en este rango:
+• Las cosas no pintan bien...
+	o Cualquiera de las opciones; La opción 1 requiere Coraje de nivel 4.
+• Entré solo... Te causé problemas...
+	o "No es un problema". +2
+
+Rango 7 > 8:
+Opciones que impactan su relación en este rango:
+• Siento que no entendí el punto...
+	o "Ese es el primer paso". +3
+	o "Aún hay tiempo." +3
+	o "Es difícil enfrentarse a uno mismo". +3
+Chie aprende a Bufula después de concluir este rango de enlace social. 
+
+Rango 8 > 9:
+Este es el rango en el que puedes entablar una relación romántica con Chie . Opciones que impactan su relación en este rango:
+• Las cosas no pintan bien...
+	o Cualquier opción está bien.
+• ...¿fue eso estúpido de mi parte?
+	o “Protegiste a ese niño”. +3
+	o “Todo salió bien”. +3
+• ¿Qué hacer?
+	o "¿Quieres ser mi novia?" [Ruta de relación]
+	o "Cuento con usted." [Camino de la amistad]
+
+Rango 9 > 10:
+Este rango se divide en dos ramas: una si has buscado una relación romántica con Chie y otra si sigues siendo amigo.
+Opciones que impactan su relación en este rango:
+
+Romance: Si Chie es tu novia
+• Oh, bueno, ¿cómo se veía la habitación que tenías en casa?
+	o "Fue más complicado". +3
+	o "Era más o menos lo mismo". +3
+• Estaba pensando... tal vez los dos juntos...
+	o "Eso suena bien." +3
+• ¿Qué deberías hacer?
+	o Cualquiera de las opciones
+• ¿Q-qué estoy diciendo…?
+	o Cualquiera de las opciones.
+
+Amistad: si no estás saliendo
+• Siempre somos compañeros de equipo… ¡eso es todo!
+	o "¡Ciertamente!"
+	o "Podemos ser más que eso".
+
+Cuando alcances el rango 10 con Chie, obtendrás la pulsera, un elemento clave que te permite fusionar a Suzuka Gongen y Futsunushi.
