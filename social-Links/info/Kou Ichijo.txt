@@ -1,0 +1,96 @@
+arcano fuerza (opción 1 club de baloncesto)
+
+Disponibilidad
+• Después de la escuela los lunes, martes, miércoles y sábado
+Localización
+• Práctica de baloncesto
+¿Disponible bajo la lluvia?
+• No
+Para iniciar el vínculo social, independientemente de si es con Kou (club de baloncesto) o Daisuke (club de fútbol), deberás visitar la oficina central y hablar con tu maestro a partir del 19 de abril . Esto desbloquea clubes escolares.
+
+LEA NUESTRA GUÍA COMPLETA DE SOCIAL LINK PARA KOU AQUÍ.
+
+Rango 1 > 2:
+Opciones que impactan su relación en este rango:
+• Oye, ¿Aiya o Junes? Tú decides.
+	o "Junes". +3
+	o "Ayá". +3
+	o "Vamos a casa." +2
+• Bueno, a mí me gustan algunos dulces...
+	o "Estoy celoso." +2
+• ¿Te gustan los dulces? ¿Quieres que te traiga un poco también?
+	o "Seguro." +2
+	o "Esta bien." +2
+
+Rango 2 > 3:
+Opciones que impactan su relación en este rango:
+• ...Quiero que lo ayudes.
+	o "Sólo dime cómo." +3
+• Ella lo llama "bárbaro".
+	o "Pero es sólo un deporte..." +2
+	o "Puedo ver eso." +2
+• Entonces… quiero que lo ayudes.
+	o "Déjamelo a mí." +3
+	o "¿Qué puedo hacer?" +2
+
+Rango 3 > 4:
+Opciones que impactan su relación en este rango:
+• Precisamente el otro día estaba saludando a la gente en una de esas reuniones de la alta sociedad. ¿Puedes imaginar? ¿Yo en una de esas cosas?
+	o "Es difícil de imaginar". +2
+	o "Puedo ver eso." +2
+• Kou intenta sonar alegre...
+	o "Eso es bueno para ti." +2
+	o "Anímate hombre." +2
+
+Rango 4 > 5:
+Opciones que impactan su relación en este rango:
+• Ey. ¿Ya has terminado de practicar?
+	o "Tienes algo de valor..." +3
+	o "¿Ocurre algo?" +2
+• Pero yo siento que me he hundido en el fondo del océano.
+	o "Vamos a hacer algo divertido". +3
+	o "Solo necesitas un descanso". +2
+
+Rango 5 > 6:
+Opciones que impactan su relación en este rango:
+• Oye, ¿cuál es su problema? ¿Está enfermo o algo así?
+	o Cualquier respuesta
+• ¿Bien?
+	o "Tienes razón." +3
+	o “¿Un juego real? Imposible…” +2
+	o "Tenemos que salvar a Kou". +2
+• También tengo algo de información sucia sobre otros muchachos, así que no deberíamos tener problemas para reunir un equipo completo.
+	o "Eres todo un estratega". +2
+	o “¿No es eso chantaje…?” +2
+	o "¿Que hay de ti?" +2
+
+Rango 6 > 7:
+Opciones que impactan su relación en este rango:
+• ¿Debería simplemente irme?
+	o Cualquiera de las respuestas.
+• Sí, el orfanato.
+	o Cualquiera de las respuestas.
+• Estaba pensando en preguntar sobre mis verdaderos padres.
+	o Cualquier respuesta.
+
+Rango 7 > 8:
+Opciones que impactan su relación en este rango:
+• Estoy un poco preocupado. 
+	o "Vamos a alcanzarlo". +3
+• ¿Qué están haciendo ustedes dos aquí?
+	o "¿Estás bien?" +3
+	o "¿Descubrir algo?" +3
+
+Rango 8 > 9:
+Opciones que impactan su relación en este rango:
+• Y ahora que ya no tengo que usar esa máscara… supongo que es hora de bajar del escenario.
+	o “¿No sacar conclusiones precipitadas?” +3
+• ...¿qué opinas?
+	o "¿Fue escrito recientemente?" +3
+• ¿Que hay de ti? ¿Quieres darte un chapuzón?
+	o Cualquiera de las respuestas.
+
+Rango 9 > 10:
+Opciones que impactan su relación en este rango:
+• Todas las opciones son neutrales.
+Cuando tu enlace S de Kou/Baloncesto (Fuerza) alcance el rango 10, obtendrás el elemento clave Carta a Kou. Eso te permitirá fusionar a Zanou-Gongen. 

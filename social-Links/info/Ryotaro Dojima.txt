@@ -1,0 +1,102 @@
+Disponibilidad
+• Cada noche
+Localización
+• La Residencia Dojima
+¿Disponible bajo la lluvia?
+• Sí
+
+Dojima solo pasará tiempo contigo entre misiones o después de que hayas terminado tu mazmorra actual. Si actualmente estás trabajando en una mazmorra, no estará disponible.
+El vínculo social con Dojima comienza automáticamente el 6 de mayo.
+Se puede pasar el rato con Dojima cualquier noche, pero solo cuando esté en tu casa. Esto suele estar determinado por tu progreso en las mazmorras: terminar las mazmorras antes a menudo libera a Dojima durante días. 
+Sin embargo, equilibre esto con el vínculo social de Nanako, ya que cuando Dojima está disponible ella no lo está, y al revés.
+El s-link de Dojima a veces puede obtener puntos extra por hacer jardinería , si te sientes tentado.
+
+LEA NUESTRA GUÍA COMPLETA DE SOCIAL LINK PARA RYOTARO AQUÍ.
+
+Rango 1 > 2:
+Se requiere expresión de nivel 2 para iniciar este ascenso de rango de enlace social. Opciones que impactan su relación en este rango:
+• Entonces… ¿qué has estado haciendo después de la escuela?
+	o "Laborar." +3
+	o "Salir con amigos." +2
+• Pero no es que tengamos mucho en común... excepto los asesinatos.
+	o "Cuéntame sobre ti." +3
+	o ¿No eres bueno hablando? +2
+• Eres más como un hermano muy joven para mí que como un hijo.
+	o "Eso es exagerar". +3
+	o "¿Debería llamarte hermano mayor?" +3
+
+Rango 2 > 3:
+Opciones que impactan su relación en este rango:
+• ¿Cuándo es siempre, eh…?
+	o Cualquier respuesta.
+• Además... no soy apto para ser su familia.
+	o "En forma o no, sois de la familia". +3
+	o "No lo entiendo". +3
+
+Rango 3 > 4:
+Necesitas tener una estadística de Expresión de Nivel 3 para iniciar este ascenso de rango. Opciones que impactan su relación en este rango:
+• Sin embargo, todo lo que tenemos es instantáneo. ¿Cómo se lo toma?
+	o "Negro." +3
+	o "Con crema." +3
+	o “Crema y azúcar”. +3
+	o "Sorpréndeme." +3
+• Ve a ver televisión con Nanako. Te lo traeré cuando esté listo.
+	o "No tienes que hacer eso". +3
+	o "Gracias." +2
+
+Rango 4 > 5:
+Este enlace social de Dojima para subir de rango requiere Expresión de Nivel 4. Opciones que impactan su relación en este rango:
+• Oh... lo siento, no estaba hablando de ti.
+	o "¿Puedo ayudar?" +3
+	o "Trabajando en casa." +2
+• Es tarde. Ve a dormir.
+	o "¿Estás bien?" +3
+	o “¿Pero Nanako?” +3
+	o "¿Qué fue eso?" +2
+
+Rango 5 > 6:
+Opciones que impactan su relación en este rango:
+• Paremos ahí.
+	o “Entonces salgamos afuera”. +3
+	o "No vamos a." +2
+	o “¿Incluso si se trata de la familia?” +2
+• No necesito una vida privada para hacer eso. ...Nanako lo entenderá.
+	o Cualquier elección
+
+Rango 6 > 7:
+Opciones que impactan su relación en este rango:
+• Puedo hacerlo en cualquier momento.
+	o "Esto es más importante, ¿eh?" +2
+
+Rango 7 > 8:
+Opciones que impactan su relación en este rango:
+• Lo siento, pero tengo las manos ocupadas aquí.
+	o "¿Quieres un poco de café?" +3
+• ¿Entiendes por qué?
+	o "Porque eres un cobarde". +3 (se requiere coraje de nivel 5)
+	o "Por Nanako". +2
+	o "Porque su asesino está suelto". +2
+
+Rango 8 > 9:
+Opciones que impactan su relación en este rango:
+• Er... Perdón por obligarte a aceptar esto hoy.
+	o "Fue divertido." +3
+	o "No me importa". +2
+	o "Pregúntame la próxima vez". +2
+• Por eso usé la venganza como excusa para pasar tiempo lejos de ella...
+	o "¿Fue duro?" +3
+	o “¿Has dejado de correr?” +3
+	o "¿Te arrepientes ahora?" +2
+
+Rango 9 > 10:
+Opciones que impactan su relación en este rango:
+• Esta es tu taza personal. Escribe tu nombre en él más tarde.
+	o "Gracias." +3
+	o "¿Mi nombre? Esta bien." +3
+	o “¿Qué estoy usando ahora?” +2
+• Cuida a Nanako.
+	o "Ve a buscarlos." +3
+	o "Ten cuidado." +3
+	o "Déjamelo a mí." +3
+
+Maximizar tu enlace s con Ryotaro Dojima desbloquea el elemento clave Taza de café, que a su vez desbloquea la fusión de personajes de Kohryu. 
